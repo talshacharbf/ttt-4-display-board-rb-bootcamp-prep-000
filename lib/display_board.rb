@@ -2,7 +2,7 @@ def display_board(board)
 Puts 
 "    |   |   
   -----------
-     | #{board[0]}" |   
+     | #{board[0]} |   
   -----------
      |   |   "
 end
