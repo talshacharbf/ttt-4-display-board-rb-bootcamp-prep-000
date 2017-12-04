@@ -1,7 +1,7 @@
 def display_board(board)
  puts "   |   |   "
  puts "-----------"
- puts "   | #{board[0]} |   "
+ puts "   | #{board[]} |   "
  puts "-----------"
  puts "   |   |   "
 end
