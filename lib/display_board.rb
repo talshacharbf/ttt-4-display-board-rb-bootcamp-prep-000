@@ -1,8 +1,8 @@
 def display_board(board)
-Puts 
-"    |   |   
+ puts 
+"    |   |
   -----------
-     | #{board[0]} |   
+     | #{board[0]} |
   -----------
      |   |   "
 end
